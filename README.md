@@ -17,7 +17,7 @@ This **serverless AWS Lambda function** automates the cleanup of stale EBS snaps
 ## 📁 Files
 - `lambda_function.py`: Main Lambda function logic
 
-## 🔐 IAM Permissions Required
+## 🔐 IAM Permissions Required 
 Attach the following permissions to the Lambda role:
 - `ec2:DescribeSnapshots`
 - `ec2:DeleteSnapshot`
