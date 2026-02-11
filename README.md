@@ -6,7 +6,7 @@ Over time, unused EBS snapshots (especially from deleted EC2 volumes) can accumu
 ## 💡 Solution
 This **serverless AWS Lambda function** automates the cleanup of stale EBS snapshots, helping to **optimize cloud costs**.
 
-## 🚀 Features
+## 🚀 Features 
 - Uses **Boto3** to interact with AWS EC2 API
 - Identifies and deletes:
   - Snapshots with no volume
