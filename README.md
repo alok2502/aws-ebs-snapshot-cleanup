@@ -1,7 +1,7 @@
 # 🧹 AWS EBS Snapshot Cleanup – Serverless Cost Optimization 💸 
 
 ## 🧠 Problem
-Over time, unused EBS snapshots (especially from deleted EC2 volumes) can accumulate and cause unnecessary AWS costs. These often get left behind unknowingly by developers or teams.
+Over time, unused EBS snapshots (especially from deleted EC2 volumes) can accumulate and cause unnecessary AWS costs. These often get left behind unknowingly by developers or teams. 
 
 ## 💡 Solution
 This **serverless AWS Lambda function** automates the cleanup of stale EBS snapshots, helping to **optimize cloud costs**.
