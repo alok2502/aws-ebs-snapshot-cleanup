@@ -46,5 +46,5 @@ Attach the following permissions to the Lambda role:
 
 ---
 
-Made with ☁️ by Alok – just cleaning up AWS, one snapshot at a time 😎
+Made with ☁️ by Alok – just cleaning up AWS, one snapshot at a time 
 
