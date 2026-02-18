@@ -11,7 +11,7 @@ This **serverless AWS Lambda function** automates the cleanup of stale EBS snaps
 - Identifies and deletes:
   - Snapshots with no volume
   - Snapshots of volumes not attached to any running EC2 instance
-- Can be scheduled to run periodically using **AWS EventBridge**
+- Can be scheduled to run periodically using **AWS EventBridge** 
 - IAM-controlled secure access
 
 ## 📁 Files
